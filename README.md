@@ -8,7 +8,7 @@
 
 ## 1. Title Page
 **Project Title:** *YouTube Channel Analytics and Visualization using Python*  
-**Author:** Your Name  
+**Author:** Yash dixit  
 **Date:** November 2025  
 **Tools Used:** Python, YouTube Data API v3, Pandas, Matplotlib  
 
